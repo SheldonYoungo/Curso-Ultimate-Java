@@ -1,7 +1,7 @@
 package Genericos;
 
 /**
- * Archivo Excepciones.Main para explicar los genéricos. Colocar fuera del paquete para poder probarlo
+ * Archivo Excepciones.Colecciones.Lambda.Streams.Main para explicar los genéricos. Colocar fuera del paquete para poder probarlo
  */
 public class Main {
     public static void main(String[] args) {

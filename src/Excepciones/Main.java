@@ -1,7 +1,7 @@
 package Excepciones;
 
 /**
- * Archivo Excepciones.Main para explicar las excepciones
+ * Archivo Excepciones.Colecciones.Lambda.Streams.Main para explicar las excepciones
  */
 public class Main {
     public static void main(String[] args) {

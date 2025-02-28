@@ -1,12 +1,7 @@
-import Colecciones.*;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
+package Colecciones;
 
 /**
- * Archivo Main para explicar el uso de colecciones
+ * Archivo Colecciones.Lambda.Streams.Main para explicar el uso de colecciones
  */
 
 public class Main {
